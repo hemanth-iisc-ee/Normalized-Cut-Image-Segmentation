@@ -9,5 +9,7 @@ Normalized cut computes the cut cost by minizing the following function
 ![ncut](https://user-images.githubusercontent.com/3444740/57194719-98f4b780-6f67-11e9-8020-e6b1dab7ac1e.gif)
 
 
-Example: 
+# Example:
+
+![ncut](https://user-images.githubusercontent.com/3444740/57194733-d8230880-6f67-11e9-9492-08bf09289f28.png)
 
